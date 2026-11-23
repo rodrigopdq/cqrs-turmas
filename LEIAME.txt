@@ -1,0 +1,8 @@
+ADS1253 - Programacao Orientada a Objetos com Banco de Dados
+Estudo dirigido: CQRS na pratica - projeto inicial (sem CQRS)
+
+Requisitos: JDK 21 e Maven 3.9 ou superior. Banco H2 em memoria, criado a cada execucao.
+
+Executar o roteiro:   mvn spring-boot:run
+
+O projeto e alterado etapa por etapa, conforme o documento do estudo dirigido.
